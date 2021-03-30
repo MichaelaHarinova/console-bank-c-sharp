@@ -47,13 +47,7 @@ namespace consoleBank
                         Console.WriteLine("Don't be complicated and just chose one of the options!");
                         break;
                 }
-
-                
-                
             }
-           
-            
-            
         }
     }
 }
