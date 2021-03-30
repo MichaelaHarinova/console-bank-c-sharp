@@ -1,0 +1,16 @@
+/home/micha/console-bank-c-sharp/consoleBank/obj/Debug/net5.0/consoleBank.csprojAssemblyReference.cache
+/home/micha/console-bank-c-sharp/consoleBank/obj/Debug/net5.0/consoleBank.GeneratedMSBuildEditorConfig.editorconfig
+/home/micha/console-bank-c-sharp/consoleBank/obj/Debug/net5.0/consoleBank.AssemblyInfoInputs.cache
+/home/micha/console-bank-c-sharp/consoleBank/obj/Debug/net5.0/consoleBank.AssemblyInfo.cs
+/home/micha/console-bank-c-sharp/consoleBank/obj/Debug/net5.0/consoleBank.csproj.CoreCompileInputs.cache
+/home/micha/console-bank-c-sharp/consoleBank/bin/Debug/net5.0/consoleBank
+/home/micha/console-bank-c-sharp/consoleBank/bin/Debug/net5.0/consoleBank.deps.json
+/home/micha/console-bank-c-sharp/consoleBank/bin/Debug/net5.0/consoleBank.runtimeconfig.json
+/home/micha/console-bank-c-sharp/consoleBank/bin/Debug/net5.0/consoleBank.runtimeconfig.dev.json
+/home/micha/console-bank-c-sharp/consoleBank/bin/Debug/net5.0/consoleBank.dll
+/home/micha/console-bank-c-sharp/consoleBank/bin/Debug/net5.0/ref/consoleBank.dll
+/home/micha/console-bank-c-sharp/consoleBank/bin/Debug/net5.0/consoleBank.pdb
+/home/micha/console-bank-c-sharp/consoleBank/obj/Debug/net5.0/consoleBank.dll
+/home/micha/console-bank-c-sharp/consoleBank/obj/Debug/net5.0/ref/consoleBank.dll
+/home/micha/console-bank-c-sharp/consoleBank/obj/Debug/net5.0/consoleBank.pdb
+/home/micha/console-bank-c-sharp/consoleBank/obj/Debug/net5.0/consoleBank.genruntimeconfig.cache
